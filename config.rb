@@ -7,6 +7,9 @@
 #   config.output_style = :compact
 # end
 
+#Livereload
+activate :livereload
+
 # Auto-prefixing of CSS code with vendor prefix
 activate :autoprefixer
 

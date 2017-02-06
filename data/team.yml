@@ -1,0 +1,11 @@
+- name: romain
+  city_image: card-brussels.jpeg
+  avatar: romain.jpg
+
+- name: seb
+  city_image: card-london.jpeg
+  avatar: seb.jpg
+
+- name: anne
+  city_image: card-paris.jpg
+  avatar: anne.jpg

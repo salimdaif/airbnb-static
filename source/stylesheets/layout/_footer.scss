@@ -1,0 +1,24 @@
+/* Footer design */
+.wrapper-brown {
+background-color: #512B1B;
+color: #DAE4D4;
+padding: 30px;
+}
+
+#footer a {
+  transition: all 0.2s;
+  &:hover {
+    filter: blur(2px)
+  }
+}
+
+.wrapper-brown .fa {
+  font-size: 40px;
+}
+.wrapper-brown p {
+color: #D5FFEF;
+}
+
+.wrapper-brown a:hover {
+  color: #E9D131;
+}
